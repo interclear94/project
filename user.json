@@ -1,3 +1,5 @@
 {
-  "name" : "JAKA"
+  "name" : "JAKA",
+  "host" : "mysql",
+  "city" : "서울"
 }
